@@ -1,4 +1,7 @@
 React Color Palette Generator App
+
+
+
 This React application allows users to enter a word in an input box, submits that word to a Google Custom Search Engine to fetch related images, and then uses the ColorThief library to extract and display color palettes from these images. This README provides detailed information on the app's functionality, setup, usage, and contributing guidelines.
 
 Features
@@ -58,10 +61,7 @@ Open a Pull Request
 License
 Distributed under the MIT License. See LICENSE for more information.
 
-Contact
-Your Name - @your_twitter - email@example.com
-
-Project Link: https://github.com/your-username/your-project-name
+Project Link: (https://fleetstudiocolor.netlify.app/)
 
 Acknowledgments
 ColorThief for the color extraction functionality.
